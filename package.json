@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JoshColas/code-challenge-search/issues"
   },
-  "homepage": "https://github.com/JoshColas/code-challenge-search#readme"
+  "homepage": "https://github.com/JoshColas/code-challenge-search#readme",
+  "dependencies": {
+    "selenium-webdriver": "^4.0.0-alpha.8"
+  }
 }
