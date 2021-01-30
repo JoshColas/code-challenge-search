@@ -1,0 +1,20 @@
+{
+  "name": "code-challenge-search",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshColas/code-challenge-search.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoshColas/code-challenge-search/issues"
+  },
+  "homepage": "https://github.com/JoshColas/code-challenge-search#readme"
+}
